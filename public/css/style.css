@@ -1,0 +1,122 @@
+/* File: public/css/style.css */
+/* Navigation styles */
+.nav-link {
+    color: #075e54;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #128c7e;
+}
+
+.nav-link.active {
+    font-weight: 600;
+    color: #075e54;
+    border-bottom: 2px solid #075e54;
+}
+
+/* Card styles */
+.card {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #eee;
+    padding: 15px 20px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+/* Form styles */
+.form-control {
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+}
+
+.form-control:focus {
+    border-color: #128c7e;
+    box-shadow: 0 0 0 0.2rem rgba(18, 140, 126, 0.25);
+}
+
+/* Button styles */
+.btn {
+    padding: 8px 20px;
+    border-radius: 6px;
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: #075e54;
+    border-color: #075e54;
+}
+
+.btn-primary:hover {
+    background-color: #128c7e;
+    border-color: #128c7e;
+}
+
+.btn-success {
+    background-color: #25d366;
+    border-color: #25d366;
+}
+
+.btn-success:hover {
+    background-color: #1fbe5c;
+    border-color: #1fbe5c;
+}
+
+/* Table styles */
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    font-weight: 600;
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table td, .table th {
+    padding: 12px 15px;
+    vertical-align: middle;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .table-responsive {
+        margin: 0 -15px;
+    }
+}
+
+/* Status indicators */
+.status-pending {
+    color: #ffc107;
+}
+
+.status-sent {
+    color: #28a745;
+}
+
+/* Message type indicators */
+.type-received {
+    background-color: #f8f9fa;
+}
+
+.type-sent {
+    background-color: #e8f5e9;
+}
+
+.type-scheduled-sent {
+    background-color: #e3f2fd;
+}

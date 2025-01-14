@@ -1,0 +1,244 @@
+{
+  "messages": [
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi",
+      "timestamp": "2025-01-12T12:19:58.853Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "I will",
+      "timestamp": "2025-01-12T12:43:12.278Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "Did you take all",
+      "timestamp": "2025-01-13T09:37:38.891Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi",
+      "timestamp": "2025-01-13T10:09:55.983Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "M good.. hope to see you in January",
+      "timestamp": "2025-01-13T10:16:58.835Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "testing number without +",
+      "timestamp": "2025-01-13T10:18:27.175Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "okay",
+      "timestamp": "2025-01-13T10:50:03.829Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "this is a test message sent from the web,.. you may reply to it as well",
+      "timestamp": "2025-01-13T11:15:00.012Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "hello, this is a test message .. you may reply to it as well",
+      "timestamp": "2025-01-13T11:39:41.760Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "I need one 🍕",
+      "timestamp": "2025-01-13T11:40:51.253Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "this is a scheduled message Oscar",
+      "timestamp": "2025-01-13T11:45:05.152Z",
+      "type": "scheduled-sent"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "this is a scheduled message to be delivered to you at exactly 2:51 PM (just for test purpose)",
+      "timestamp": "2025-01-13T11:51:01.488Z",
+      "type": "scheduled-sent"
+    },
+    {
+      "phoneNumber": "255754711120",
+      "message": "Hello",
+      "timestamp": "2025-01-13T11:57:11.786Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "this is for test,, try respond to it",
+      "timestamp": "2025-01-13T11:58:02.587Z",
+      "type": "scheduled-sent"
+    },
+    {
+      "phoneNumber": "255754711120",
+      "message": "Thanks. Received",
+      "timestamp": "2025-01-13T11:58:17.548Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "kindly include country code when sending messages\n",
+      "timestamp": "2025-01-13T12:51:47.782Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "255754711120",
+      "message": "thanks",
+      "timestamp": "2025-01-13T14:58:04.142Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "this is from me ",
+      "timestamp": "2025-01-13T14:59:30.322Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi",
+      "timestamp": "2025-01-13T15:07:49.996Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hello",
+      "timestamp": "2025-01-13T15:10:30.799Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "255754711120",
+      "message": "With + sign or just 255….?",
+      "timestamp": "2025-01-13T15:14:11.949Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "255754711120",
+      "message": "either +255 or without the +",
+      "timestamp": "2025-01-13T15:15:05.404Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi",
+      "timestamp": "2025-01-13T15:16:42.093Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "hi Oscar this a test message",
+      "timestamp": "2025-01-13T15:19:20.079Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "i can see shedule checker has an issue on local machine so scheduled messages are taking time ..",
+      "timestamp": "2025-01-13T15:23:04.704Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi oscR",
+      "timestamp": "2025-01-13T15:31:00.371Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "hello",
+      "timestamp": "2025-01-13T15:32:02.329Z",
+      "type": "scheduled-sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "test schedule",
+      "timestamp": "2025-01-13T15:34:01.743Z",
+      "type": "scheduled-sent"
+    },
+    {
+      "phoneNumber": "+255754711120",
+      "message": "This message is scheduled to be sent at 6:36pm from the server",
+      "timestamp": "2025-01-13T15:36:02.342Z",
+      "type": "scheduled-sent"
+    }
+  ],
+  "schedules": [
+    {
+      "id": "1736682441337",
+      "phoneNumber": "0727870117",
+      "message": "Happy birthday bro",
+      "event": "Birthday",
+      "scheduleDate": "2025-01-13",
+      "scheduleTime": "16:47",
+      "status": "failed",
+      "error": "Request failed with status code 400"
+    },
+    {
+      "id": "1736768618898",
+      "phoneNumber": "+254727870117",
+      "message": "this is a scheduled message Oscar",
+      "event": "Reminder",
+      "scheduleDate": "2025-01-13",
+      "scheduleTime": "14:45",
+      "status": "sent"
+    },
+    {
+      "id": "1736768975858",
+      "phoneNumber": "+255754711120",
+      "message": "this is a scheduled message to be delivered to you at exactly 2:51 PM (just for test purpose)",
+      "event": "Reminder",
+      "scheduleDate": "2025-01-13",
+      "scheduleTime": "14:51",
+      "status": "sent"
+    },
+    {
+      "id": "1736769369580",
+      "phoneNumber": "+255754711120",
+      "message": "this is for test,, try respond to it",
+      "event": "Reminder",
+      "scheduleDate": "2025-01-13",
+      "scheduleTime": "14:58",
+      "status": "sent"
+    },
+    {
+      "id": "1736781344848",
+      "phoneNumber": "+255754711120",
+      "message": "hello",
+      "event": "Reminder",
+      "scheduleDate": "2025-01-13",
+      "scheduleTime": "18:17",
+      "status": "sent"
+    },
+    {
+      "id": "1736782338977",
+      "phoneNumber": "+254727870117",
+      "message": "test schedule",
+      "event": "Reminder",
+      "scheduleDate": "2025-01-13",
+      "scheduleTime": "18:34",
+      "status": "sent"
+    },
+    {
+      "id": "1736782495867",
+      "phoneNumber": "+255754711120",
+      "message": "This message is scheduled to be sent at 6:36pm from the server",
+      "event": "Reminder",
+      "scheduleDate": "2025-01-13",
+      "scheduleTime": "18:36",
+      "status": "sent"
+    }
+  ]
+}
