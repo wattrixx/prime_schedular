@@ -2,242 +2,456 @@
   "messages": [
     {
       "phoneNumber": "+254727870117",
-      "message": "hi",
-      "timestamp": "2025-01-12T12:19:58.853Z",
-      "type": "sent"
-    },
-    {
-      "phoneNumber": "254727870117",
-      "message": "I will",
-      "timestamp": "2025-01-12T12:43:12.278Z",
-      "type": "received"
-    },
-    {
-      "phoneNumber": "254727870117",
-      "message": "Did you take all",
-      "timestamp": "2025-01-13T09:37:38.891Z",
-      "type": "received"
-    },
-    {
-      "phoneNumber": "+254727870117",
-      "message": "hi",
-      "timestamp": "2025-01-13T10:09:55.983Z",
-      "type": "sent"
-    },
-    {
-      "phoneNumber": "254727870117",
-      "message": "M good.. hope to see you in January",
-      "timestamp": "2025-01-13T10:16:58.835Z",
-      "type": "received"
-    },
-    {
-      "phoneNumber": "254727870117",
-      "message": "testing number without +",
-      "timestamp": "2025-01-13T10:18:27.175Z",
-      "type": "sent"
-    },
-    {
-      "phoneNumber": "+254727870117",
-      "message": "okay",
-      "timestamp": "2025-01-13T10:50:03.829Z",
-      "type": "sent"
-    },
-    {
-      "phoneNumber": "+255754711120",
-      "message": "this is a test message sent from the web,.. you may reply to it as well",
-      "timestamp": "2025-01-13T11:15:00.012Z",
-      "type": "sent"
-    },
-    {
-      "phoneNumber": "+255754711120",
-      "message": "hello, this is a test message .. you may reply to it as well",
-      "timestamp": "2025-01-13T11:39:41.760Z",
-      "type": "sent"
-    },
-    {
-      "phoneNumber": "254727870117",
-      "message": "I need one 🍕",
-      "timestamp": "2025-01-13T11:40:51.253Z",
-      "type": "received"
-    },
-    {
-      "phoneNumber": "+254727870117",
-      "message": "this is a scheduled message Oscar",
-      "timestamp": "2025-01-13T11:45:05.152Z",
+      "message": "hi this is a scheduled one ",
+      "timestamp": "2025-01-21T10:24:05.101Z",
       "type": "scheduled-sent"
     },
     {
-      "phoneNumber": "+255754711120",
-      "message": "this is a scheduled message to be delivered to you at exactly 2:51 PM (just for test purpose)",
-      "timestamp": "2025-01-13T11:51:01.488Z",
-      "type": "scheduled-sent"
-    },
-    {
-      "phoneNumber": "255754711120",
-      "message": "Hello",
-      "timestamp": "2025-01-13T11:57:11.786Z",
+      "phoneNumber": "254727870117",
+      "message": "Okay will come",
+      "timestamp": "2025-01-21T10:24:28.579Z",
       "type": "received"
     },
     {
-      "phoneNumber": "+255754711120",
-      "message": "this is for test,, try respond to it",
-      "timestamp": "2025-01-13T11:58:02.587Z",
-      "type": "scheduled-sent"
-    },
-    {
-      "phoneNumber": "255754711120",
-      "message": "Thanks. Received",
-      "timestamp": "2025-01-13T11:58:17.548Z",
+      "phoneNumber": "254727870117",
+      "message": "Hi",
+      "timestamp": "2025-01-22T07:04:58.984Z",
       "type": "received"
     },
     {
-      "phoneNumber": "+255754711120",
-      "message": "kindly include country code when sending messages\n",
-      "timestamp": "2025-01-13T12:51:47.782Z",
+      "phoneNumber": "254727870117",
+      "message": "This is 22nd",
+      "timestamp": "2025-01-22T07:05:10.080Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi watt",
+      "timestamp": "2025-01-22T07:11:52.802Z",
       "type": "sent"
     },
     {
-      "phoneNumber": "255754711120",
-      "message": "thanks",
-      "timestamp": "2025-01-13T14:58:04.142Z",
+      "phoneNumber": "254727870117",
+      "message": "Ok",
+      "timestamp": "2025-01-22T07:13:19.946Z",
       "type": "received"
     },
     {
-      "phoneNumber": "+255754711120",
-      "message": "this is from me ",
-      "timestamp": "2025-01-13T14:59:30.322Z",
+      "phoneNumber": "+254727870117",
+      "message": "This is a scheduled message",
+      "timestamp": "2025-01-22T07:14:02.085Z",
+      "type": "scheduled-sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "test one",
+      "timestamp": "2025-01-22T07:28:33.607Z",
       "type": "sent"
     },
     {
       "phoneNumber": "+254727870117",
-      "message": "hi",
-      "timestamp": "2025-01-13T15:07:49.996Z",
+      "message": "helloww",
+      "timestamp": "2025-01-22T08:17:07.384Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "scheduled for wattt",
+      "timestamp": "2025-01-22T08:19:01.171Z",
+      "type": "scheduled-sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "check if this message is okay",
+      "timestamp": "2025-01-22T09:16:12.277Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "osvar",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-22T09:22:53.303Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "oscar watt.. is this you ",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-22T09:25:29.548Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hellow to you today",
+      "timestamp": "2025-01-22T09:26:25.993Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hellow to you today",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-22T09:26:26.078Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "oscar waeert",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-22T09:54:31.371Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi watt",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-22T10:18:12.661Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "Sure",
+      "timestamp": "2025-01-22T10:18:13.845Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "Hi bro",
+      "timestamp": "2025-01-22T10:18:36.489Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "okay watt",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-26T07:52:46.706Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "will you manage to come \n",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-26T07:54:35.171Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi oscar sasa ",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-26T07:55:10.178Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "okay oscar",
+      "timestamp": "2025-01-26T08:04:21.754Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "hi watt",
+      "timestamp": "2025-01-26T08:04:22.034Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi watt",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-26T08:04:27.355Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "will you bring them",
+      "timestamp": "2025-01-26T08:04:45.451Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "allright",
+      "timestamp": "2025-01-26T08:31:09.094Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "MAMBO POA ",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-26T08:31:35.808Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "huii",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-26T08:39:17.749Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi watt",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-27T06:59:12.661Z",
       "type": "sent"
     },
     {
       "phoneNumber": "+254727870117",
       "message": "hello",
-      "timestamp": "2025-01-13T15:10:30.799Z",
+      "mediaUrl": null,
+      "caption": "",
+      "timestamp": "2025-01-27T07:30:12.552Z",
       "type": "sent"
     },
     {
-      "phoneNumber": "255754711120",
-      "message": "With + sign or just 255….?",
-      "timestamp": "2025-01-13T15:14:11.949Z",
+      "phoneNumber": "+254727870117",
+      "message": "waaat",
+      "caption": "",
+      "timestamp": "2025-01-27T09:37:08.912Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "hi",
+      "timestamp": "2025-01-27T09:37:42.084Z",
       "type": "received"
     },
     {
-      "phoneNumber": "255754711120",
-      "message": "either +255 or without the +",
-      "timestamp": "2025-01-13T15:15:05.404Z",
+      "phoneNumber": "+254727870117",
+      "message": "hi watttt",
+      "caption": "",
+      "timestamp": "2025-01-27T09:38:16.838Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "watts",
+      "caption": "hshs",
+      "timestamp": "2025-01-27T10:20:54.901Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "watt test",
+      "caption": "",
+      "timestamp": "2025-01-27T10:21:54.716Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "messo",
+      "caption": "caption",
+      "timestamp": "2025-01-27T10:22:58.192Z",
       "type": "sent"
     },
     {
       "phoneNumber": "+254727870117",
       "message": "hi",
-      "timestamp": "2025-01-13T15:16:42.093Z",
+      "caption": "hawi",
+      "timestamp": "2025-01-27T10:31:44.933Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi ",
+      "mediaId": "585601877789871",
+      "caption": "",
+      "timestamp": "2025-01-27T10:39:49.487Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "her",
+      "mediaId": "2367496503619452",
+      "caption": "my dear ",
+      "timestamp": "2025-01-27T10:41:43.142Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "no caption today",
+      "mediaId": null,
+      "caption": "",
+      "timestamp": "2025-01-27T10:42:43.580Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "text only ",
+      "mediaId": "1133994554683979",
+      "caption": "",
+      "timestamp": "2025-01-27T10:47:09.393Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "727870117",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-27T11:14:18.469Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "727870117",
+      "mediaId": "1526688104655844",
+      "caption": null,
+      "timestamp": "2025-01-27T11:14:41.463Z",
       "type": "sent"
     },
     {
       "phoneNumber": "254727870117",
-      "message": "hi Oscar this a test message",
-      "timestamp": "2025-01-13T15:19:20.079Z",
+      "message": "watt vipi",
+      "timestamp": "2025-01-27T11:34:55.072Z",
       "type": "received"
     },
     {
-      "phoneNumber": "+255754711120",
-      "message": "i can see shedule checker has an issue on local machine so scheduled messages are taking time ..",
-      "timestamp": "2025-01-13T15:23:04.704Z",
+      "phoneNumber": "+254727870117",
+      "message": "hi",
+      "mediaId": "1142829110558951",
+      "caption": null,
+      "timestamp": "2025-01-27T12:39:57.594Z",
       "type": "sent"
     },
     {
       "phoneNumber": "+254727870117",
-      "message": "hi oscR",
-      "timestamp": "2025-01-13T15:31:00.371Z",
+      "message": "test",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-27T12:41:32.480Z",
       "type": "sent"
     },
     {
-      "phoneNumber": "+255754711120",
-      "message": "hello",
-      "timestamp": "2025-01-13T15:32:02.329Z",
-      "type": "scheduled-sent"
+      "phoneNumber": "254727870117",
+      "message": "Okay I will send you a message",
+      "timestamp": "2025-01-27T12:46:11.071Z",
+      "type": "received"
     },
     {
       "phoneNumber": "+254727870117",
-      "message": "test schedule",
-      "timestamp": "2025-01-13T15:34:01.743Z",
-      "type": "scheduled-sent"
+      "message": "hi watt",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-29T08:01:22.766Z",
+      "type": "sent"
     },
     {
-      "phoneNumber": "+255754711120",
-      "message": "This message is scheduled to be sent at 6:36pm from the server",
-      "timestamp": "2025-01-13T15:36:02.342Z",
-      "type": "scheduled-sent"
+      "phoneNumber": "+254727870117",
+      "message": "hi watt",
+      "mediaId": "573994128972753",
+      "caption": null,
+      "timestamp": "2025-01-29T08:21:02.113Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "waaat",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-29T08:31:59.452Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "254727870117",
+      "message": "okay oscar",
+      "timestamp": "2025-01-29T08:33:53.867Z",
+      "type": "received"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "will come tommorow",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-29T08:34:25.995Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "gsgsg",
+      "mediaId": "1303157457574243",
+      "caption": null,
+      "timestamp": "2025-01-29T08:36:52.827Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-29T20:21:19.445Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "oscar",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-29T20:24:16.602Z",
+      "type": "sent"
+    },
+    {
+      "phoneNumber": "+254727870117",
+      "message": "hi watt",
+      "mediaId": null,
+      "caption": null,
+      "timestamp": "2025-01-29T20:25:31.349Z",
+      "type": "sent"
     }
   ],
   "schedules": [
     {
-      "id": "1736682441337",
-      "phoneNumber": "0727870117",
-      "message": "Happy birthday bro",
-      "event": "Birthday",
-      "scheduleDate": "2025-01-13",
-      "scheduleTime": "16:47",
+      "id": "1737454973103",
+      "phoneNumber": "+254727870117",
+      "message": "hi this is a scheduled one ",
+      "event": "Reminder",
+      "scheduleDate": "2025-01-21",
+      "scheduleTime": "13:24",
+      "status": "sent"
+    },
+    {
+      "id": "1737529960997",
+      "phoneNumber": "+254727870117",
+      "message": "This is a scheduled message",
+      "event": "",
+      "scheduleDate": "2025-01-22",
+      "scheduleTime": "10:14",
+      "status": "sent"
+    },
+    {
+      "id": "1737533875339",
+      "phoneNumber": "+254727870117",
+      "message": "scheduled for wattt",
+      "event": "",
+      "scheduleDate": "2025-01-22",
+      "scheduleTime": "11:19",
+      "status": "sent"
+    },
+    {
+      "id": "1737541170771",
+      "phoneNumber": "727870117",
+      "message": "was scheduled to be delivered at 1:20 PM ",
+      "event": "",
+      "scheduleDate": "2025-01-22",
+      "scheduleTime": "13:20",
       "status": "failed",
       "error": "Request failed with status code 400"
     },
     {
-      "id": "1736768618898",
+      "id": "1737977605302",
       "phoneNumber": "+254727870117",
-      "message": "this is a scheduled message Oscar",
-      "event": "Reminder",
-      "scheduleDate": "2025-01-13",
-      "scheduleTime": "14:45",
-      "status": "sent"
-    },
-    {
-      "id": "1736768975858",
-      "phoneNumber": "+255754711120",
-      "message": "this is a scheduled message to be delivered to you at exactly 2:51 PM (just for test purpose)",
-      "event": "Reminder",
-      "scheduleDate": "2025-01-13",
-      "scheduleTime": "14:51",
-      "status": "sent"
-    },
-    {
-      "id": "1736769369580",
-      "phoneNumber": "+255754711120",
-      "message": "this is for test,, try respond to it",
-      "event": "Reminder",
-      "scheduleDate": "2025-01-13",
-      "scheduleTime": "14:58",
-      "status": "sent"
-    },
-    {
-      "id": "1736781344848",
-      "phoneNumber": "+255754711120",
-      "message": "hello",
-      "event": "Reminder",
-      "scheduleDate": "2025-01-13",
-      "scheduleTime": "18:17",
-      "status": "sent"
-    },
-    {
-      "id": "1736782338977",
-      "phoneNumber": "+254727870117",
-      "message": "test schedule",
-      "event": "Reminder",
-      "scheduleDate": "2025-01-13",
-      "scheduleTime": "18:34",
-      "status": "sent"
-    },
-    {
-      "id": "1736782495867",
-      "phoneNumber": "+255754711120",
-      "message": "This message is scheduled to be sent at 6:36pm from the server",
-      "event": "Reminder",
-      "scheduleDate": "2025-01-13",
-      "scheduleTime": "18:36",
+      "message": "my caption test ",
+      "mediaId": "943677091223188",
+      "scheduleDate": "2025-01-27",
+      "scheduleTime": "14:35",
       "status": "sent"
     }
   ]

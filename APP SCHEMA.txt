@@ -1,0 +1,16 @@
+/my-whatsapp-app
+│── /public          # Static files (CSS, JS, uploads)
+│── /views          # EJS templates
+│── /routes
+│   ├── index.js         # Homepage & message-related routes
+│   ├── whatsappRoutes.js  # API interaction routes
+│── /controllers
+│   ├── messageController.js   # Handles messages & scheduling
+│   ├── mediaController.js     # Handles media upload
+│── /database
+│   ├── db.js                # SQLite database connection
+│── /utils
+│   ├── cronJobs.js          # Scheduling logic for messages
+│── app.js                  # Main Express application
+│── .env                    # Store API tokens & configs
+│── package.json            # Dependencies
